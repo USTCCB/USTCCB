@@ -59,7 +59,7 @@
 
 ## 🚀 项目经历
 
-### 📡 [物联网分布式传感器采集系统](#) · 核心开发（后端）
+### 📡 [物联网分布式传感器采集系统](https://github.com/USTCCB/iot-sensor-system) · 核心开发（后端）
 **2024.09 — 2025.06** · Spring Boot MyBatis Redis MATLAB
 
 - 基于 Spring Boot + MyBatis 设计后端服务，使用 Redis 缓存实时数据，降低数据库读写压力。
@@ -68,7 +68,7 @@
 - 系统 7×24 小时稳定运行，覆盖实验室多类危险气体监测场景，**获校级一等奖**。
 - 竞赛背景：安徽省大学生网络与分布式系统创新设计大赛（大数据赛道）省级一等奖
 
-### 🛒 [「安农领鲜」微信小程序](#) · 后端主开发
+### 🛒 [「安农领鲜」微信小程序](https://github.com/USTCCB/anong-lingxian) · 后端主开发
 **2025.04** · Spring Boot MyBatis Redis MySQL
 
 - 独立完成后端，基于 Spring Boot + MyBatis 构建 RESTful API，覆盖商品、订单、库存、支付回调等模块。
@@ -76,6 +76,13 @@
 - **获校级一等奖**；项目作为校园农产品线上化方案落地，团队负责后端全量开发。
 
 ### 💻 [个人全栈技术平台 (ustc.chat)](https://github.com/USTCCB/ustc.chat) · 独立开发
+
+### 🏪 [Spring Boot 商城](https://github.com/USTCCB/springboot-mall) · 独立开发（学习项目）
+**2025** · Spring Boot MyBatis Redis H2
+
+- 完整的 Spring Boot 商城 Demo：商品/订单/用户/Redis 限流/全局异常处理。
+- 展示 MyBatis XML 映射、@Transactional 事务、@ControllerAdvice 异常处理、Redis 分布式限流等典型工程能力。
+- 单元测试覆盖下单核心路径。
 **2025.01 — 2026.03** · Next.js Express TypeScript PostgreSQL Docker CI/CD
 
 - 基于 Express + TypeScript + PostgreSQL 独立搭建，采用第三范式设计，覆盖用户鉴权、博客、流式对话等 8 个模块，线上持续运行。
